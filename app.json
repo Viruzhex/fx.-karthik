@@ -1,7 +1,7 @@
 {
   "name": "Kochubot",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
+  "logo": "https://telegra.ph/file/1a1b855984d7ef30e8e17.png",
   "keywords": [
     "telegram",
     "best",
@@ -27,7 +27,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "DK"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -54,7 +54,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://www.t.me/fx_karthik"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
